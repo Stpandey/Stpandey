@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Stpandey
-- 👀 I’m interested in python devlopment
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in python devlopment..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
